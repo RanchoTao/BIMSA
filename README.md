@@ -1,3 +1,2 @@
 # BIMSA
-本人于2025年11月14日开始BIMSA数学与人工智能项目，本仓库记录项目开始后的学习和生活。
-感谢北京建筑大学和北京雁栖湖应用数学研究院的支持与帮助。
+I commenced the BIMSA Mathematics and Artificial Intelligence program on November 14, 2025. This repository documents my academic progress and daily life since the program's commencement. I extend my gratitude to Beijing University of Civil Engineering and Architecture and the Beijing Yanqi Lake Institute of Applied Mathematics for their support and assistance.
