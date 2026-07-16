@@ -1,7 +1,7 @@
 # BIMSA
 
 ## 项目定位
-**BIMSA-MathAI**试图仿照(清华大学计算机系生存指南)[https://github.com/PKUanonym/REKCARC-TSC-UHT]构建一个结构化、可持续维护的开源资料库，服务于课程学习、研究训练与学术成长。
+**BIMSA-MathAI**试图仿照[清华大学计算机系生存指南](https://github.com/PKUanonym/REKCARC-TSC-UHT)构建一个结构化、可持续维护的开源资料库，服务于课程学习、研究训练与学术成长。
 
 当前版本处于从“个人资料归档”向“知识库化组织”过渡阶段：
 - 保留历史资料原貌，避免一次性大迁移造成信息丢失。
